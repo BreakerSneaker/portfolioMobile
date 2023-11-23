@@ -26,7 +26,7 @@ h1, h2, h3{
     padding-top: 88px;
     justify-content: center;
     align-items: center;
-    gap: calc(35vw - 5%);
+    gap: calc(35vw - 10%);
 }
 
 #boxContent{
@@ -55,8 +55,8 @@ h1, h2, h3{
     height: auto;
     top: -2%;
     z-index: -1;
-    background-color: black;
-    opacity: 50%;
+   
+   
 }
 ul{
   
@@ -75,12 +75,13 @@ ul{
     text-decoration: none;
     font-style: none;
     display: flex;
-    padding: 10px 45px;
+    padding: 10px 35px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
     border-radius: 5px;
-    background: #212529;
+    background: #212529 ;
+    background-color: #212529;
 
 }
 
@@ -88,13 +89,14 @@ ul{
     color:#212529 ;
 font-style: none;
 text-decoration: none;
-    display: flex;
+display: flex;
 padding: 5px 11px;
 justify-content: center;
 align-items: center;
 gap: 10px;
 border-radius: 5px;
-border: 1px solid #000;
+border: 1px solid #000
+
 }
 
 
