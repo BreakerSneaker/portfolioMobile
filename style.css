@@ -1,4 +1,35 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
 body{
-    background-color: black;
-    color: white;
+display: flex;
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 2px;
+}
+
+
+
+.boxBio{
+    display: flex;
+    height: 319px;
+    padding-top: 88px;
+    justify-content: center;
+    align-items: center;
+    gap: calc(25vw - 10%);
+}
+
+
+
+.boxVideo{
+    position: absolute;
+    width: 100%;
+    height: calc(auto - 100px);
+    top: 0%;
+    z-index: -1;
 }
