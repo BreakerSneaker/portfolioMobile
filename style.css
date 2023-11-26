@@ -12,15 +12,10 @@ justify-content: center;
 align-items: center;
 gap: 10px;
 
+font-family: 'Urbanist', sans-serif;
 }
 
-p{
-    font-family: 'Urbanist', sans-serif;
-}
-h1, h2, h3{
-    font-family: 'Urbanist', sans-serif;
 
-}
 
 .ImgProfile{
     width: 152px;
@@ -140,11 +135,13 @@ border: 1px solid #000;
     justify-content: center;
     width: auto;
     height: auto;
+    
 }
 .boxPr{
     width: 147px;
     height: 227px;
     background-color: red;
+   
 }
 
 
@@ -168,3 +165,5 @@ border: 1px solid #000;
         border: 1px solid #ffffff;
     }
   }
+
+
