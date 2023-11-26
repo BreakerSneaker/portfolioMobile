@@ -107,7 +107,7 @@ border: 1px solid #000
 .BoxPrd{
     display: flex;
    
-   
+   width: 320;
     gap: 8px;
     flex-wrap: wrap;
     justify-content: center;
