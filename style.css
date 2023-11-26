@@ -16,7 +16,10 @@ font-family: 'Urbanist', sans-serif;
 }
 
 
-
+h6{
+   color: white;
+   padding: 10px;
+}
 .ImgProfile{
     width: 152px;
     height: 152px;
@@ -143,6 +146,12 @@ border: 1px solid #000;
     background-color: red;
    
 }
+
+
+
+
+
+
 
 
 @media screen and (min-width: 1200px) {
