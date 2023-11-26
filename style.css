@@ -107,7 +107,7 @@ border: 1px solid #000
 .BoxPrd{
     display: flex;
    
-   width: 320;
+    width: 300;
     gap: 8px;
     flex-wrap: wrap;
     justify-content: center;
@@ -115,7 +115,7 @@ border: 1px solid #000
     height: auto;
 }
 .boxPr{
-    width: 120px;
+    width: 140px;
     height: 160px;
     background-color: red;
 }
