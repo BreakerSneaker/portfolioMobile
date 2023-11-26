@@ -114,7 +114,7 @@ justify-content: center;
 align-items: center;
 gap: 10px;
 border-radius: 5px;
-border: 1px solid #000
+border: 1px solid #000;
 
 }
 
@@ -146,5 +146,20 @@ border: 1px solid #000
 @media screen and (min-width: 1200px) {
     .boxVideo{
         top: calc(100% -199%);
+    }
+  }
+
+
+  @media screen and (orientation:landscape) {
+
+    p{
+        color: white;
+        
+    }
+    h1{
+        color: white;
+    }
+    .boxLetsTalk{
+        border: 1px solid #ffffff;
     }
   }
