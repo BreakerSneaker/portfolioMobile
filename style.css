@@ -22,15 +22,15 @@ h1, h2, h3{
 
 }
 
-.ImgProfile {
-    object-position: 20% 10%;
-    
-   
+.ImgProfile{
+    width: 152px;
+    height: 152px;
+    border-radius: 10px;
+    background:  1.695px -25.997px / 100% 149.817% no-repeat;
 }
-
 .boxProfilePhoto .ImgProfile{
     object-fit: cover;
-    
+    object-position: 20% 10%;
     overflow: hidden;
     width: 152px;
     height: 152px;
