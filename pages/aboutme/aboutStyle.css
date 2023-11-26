@@ -27,7 +27,15 @@ a{
         color: black;
 }
 
+.close{
+  position: absolute;
+  width: fit-content;
+  height: fit-content;
+ top: 5%;
+ right: 10%;
+  text-decoration: none;
 
+}
 
 
 
