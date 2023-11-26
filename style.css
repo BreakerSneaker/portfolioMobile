@@ -159,6 +159,12 @@ border: 1px solid #000;
        top: -5%;
         
     }
+    .icons{
+    -webkit-filter: invert(100%); /* Safari/Chrome */
+    filter: invert(100%);
+    }
+
+   
   }
 
 
