@@ -23,8 +23,9 @@ h1, h2, h3{
 
 .boxBio{
     display: flex;
-    height: 319px;
-    padding-top: 88px;
+    height: 300px;
+    padding-top: 40px;
+ 
     justify-content: center;
     align-items: center;
     gap: calc(35vw - 10%);
@@ -54,7 +55,7 @@ h1, h2, h3{
     position: absolute;
     width: 100%;
     height: auto;
-    top: -2%;
+    top: -3%;
     z-index: -1;
    
    
@@ -102,7 +103,7 @@ border: 1px solid #000
 
 .icons{
     
-    width: 40px;
+    width: 30px;
     height: auto;
     gap: 50px;
     
