@@ -125,9 +125,9 @@ border: 1px solid #000;
 
 .icons{
     
-    width: 30px;
+    width: 35px;
     height: auto;
-    gap: 50px;
+    padding: 10px;
     
 }
 
